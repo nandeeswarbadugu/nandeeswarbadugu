@@ -23,9 +23,9 @@ I have a strong interest in **distributed systems**, **cloud-native development*
 
 ## 📫 How to Reach Me
 - 📧 Email: nandeeswarbadugu@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 🧑‍💻 [Portfolio](https://your-portfolio-link.com)
-- 📝 [Resume](https://your-resume-link.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nandeeswar-reddy/)
+- 📝 [Resume](https://nandeeswarbadugu.tiiny.site/)
+
 
 ---
 
